@@ -1,3 +1,3 @@
-export default function (){
-    return <div>Loading...</div>
+export default function Loading(){
+    return <div>Page is loading...</div>
 }
