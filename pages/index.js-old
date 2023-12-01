@@ -1,6 +1,6 @@
-import LoginBtn from "./login-btn";
+import LoginBtn from "@/components/login-btn";
 
-export default function Page() {
+export default function Home() {
     return (
         <div>
             <h1>Auth testing</h1>
